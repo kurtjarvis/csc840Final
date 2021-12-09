@@ -10,11 +10,11 @@ Presentation Page for CSC840 Final
 
 ## Why You Should Care
 This semester was a focus on multiple topics that were pieces of different aspects to offensive cyber operations. If you made it past chapter 5, you are probably committed to execution but how do we make it all work together to improve security? Here are the questions to ask yourself:
-ï How do I methodically go from no access to maximum access?
-ï How do I ensure that I donít miss anything?
-ï How do I estimate effort and timelines?
-ï How do I explain this to the consumer?
-ï How do I explain this to the team who is going to fix it?
+‚Ä¢ How do I methodically go from no access to maximum access?
+‚Ä¢ How do I ensure that I don‚Äôt miss anything?
+‚Ä¢ How do I estimate effort and timelines?
+‚Ä¢ How do I explain this to the consumer?
+‚Ä¢ How do I explain this to the team who is going to fix it?
 
 ## Three Main Ideas
 1. Lockheed Martin Kill Chain (How do I break this down into steps
@@ -22,7 +22,12 @@ This semester was a focus on multiple topics that were pieces of different aspec
 3. MITRE ATT&CK (What are the techniques to get me where I wanna go)
 
 ## Future Direction
-This should be fed into the Blue Team. MITRE has established another tool called ìD3FENDî that links together the attack techniques with defense and visibility techniques.
+This should be fed into the Blue Team. MITRE has established another tool called ‚ÄúD3FEND‚Äù that links together the attack techniques with defense and visibility techniques.
+
+## Video Walkthroughs in 3 parts
+* [CSC_840_Part_1](https://youtu.be/si3LtqIPQfk)
+* [CSC 840 Part 2](https://youtu.be/UgwPgNkDAok)
+* [CSC 840 Part 3](https://youtu.be/k7H5JSkRXHk)
 
 ## Additional Resources
 * [MITRE ATT&CK](https://attack.mitre.org/#)
